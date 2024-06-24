@@ -11,3 +11,5 @@ Parts used:
 - 2004 LCD with Blue Backlight and I2C Interface
 - Biaxial Joystick Module
 - Passive Buzzer
+
+Demo: https://youtu.be/XZkV4incpBM
